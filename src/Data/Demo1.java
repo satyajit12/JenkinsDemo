@@ -17,9 +17,5 @@ public class Demo1 {
     	System.out.println("Hello Bubun");
     }
     
-    @Test
-    
-    public  void test2() {
-    System.out.println("Hallo rockers");	
-    }
+   
 }
