@@ -17,5 +17,11 @@ public class Demo1 {
     	System.out.println("Hello Bubun");
     }
     
+    @Test
+    
+    public void test2() {
+    	System.out.println("I miss u bubun");
+    }
+    
    
 }
