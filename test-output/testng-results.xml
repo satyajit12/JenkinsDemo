@@ -2,6 +2,7 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite name="Suite" duration-ms="12" started-at="2018-05-02T07:10:13Z" finished-at="2018-05-02T07:10:13Z">
     <groups>
     </groups>
@@ -16,9 +17,25 @@
           </reporter-output>
         </test-method> <!-- test2 -->
         <test-method status="PASS" signature="test1()[pri:0, instance:Data.Demo1@1593948d]" name="test1" duration-ms="0" started-at="2018-05-02T07:10:13Z" finished-at="2018-05-02T07:10:13Z">
+=======
+  <suite name="Suite" duration-ms="27" started-at="2018-04-28T17:03:41Z" finished-at="2018-04-28T17:03:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27" started-at="2018-04-28T17:03:41Z" finished-at="2018-04-28T17:03:41Z">
+      <class name="Data.Demo1">
+        <test-method status="PASS" signature="test()[pri:0, instance:Data.Demo1@1593948d]" name="test" duration-ms="6" started-at="2018-04-28T17:03:41Z" finished-at="2018-04-28T17:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Data.Demo1@1593948d]" name="test1" duration-ms="1" started-at="2018-04-28T17:03:41Z" finished-at="2018-04-28T17:03:41Z">
+>>>>>>> origin/master
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Data.Demo1@1593948d]" name="test2" duration-ms="0" started-at="2018-04-28T17:03:41Z" finished-at="2018-04-28T17:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
       </class> <!-- Data.Demo1 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->

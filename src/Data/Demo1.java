@@ -19,7 +19,15 @@ public class Demo1 {
     
     @Test
     
-    public  void test2() {
-    System.out.println("Hallo rockers");	
+    public void test2() {
+    	System.out.println("I miss u bubun");
     }
+    
+    @Test
+    
+    public void test3() {
+    	System.out.println("I kiss u");
+    }
+    
+   
 }
