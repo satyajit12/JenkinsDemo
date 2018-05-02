@@ -23,5 +23,11 @@ public class Demo1 {
     	System.out.println("I miss u bubun");
     }
     
+    @Test
+    
+    public void test3() {
+    	System.out.println("I kiss u");
+    }
+    
    
 }
